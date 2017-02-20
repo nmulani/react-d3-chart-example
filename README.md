@@ -2,7 +2,7 @@
 
 A basic example of how to implement a mutable, animated D3 visualization component in React. See source code for annotations with rationale behind various pieces of code included here.
 
-Clone repository and run `npm start` to launch example. Pressing "Toggle Arc" will show arc animation.
+Clone repository and run `npm start` to launch example. Pressing "Toggle Arc" will show arc animation. Node module dependencies will have to be installed prior to successfully running this example.
 
 See `src/App.js` for initialization of React-D3 component and `src/ProgressArc.js` for definition of React-D3 arc component.
 
